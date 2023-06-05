@@ -1,0 +1,26 @@
+{
+    "proyectos": "Proyectos",
+    "date": 2023,
+    "proyects": [
+      {
+        "name": "Proyecto - 1",
+        "number": "Proyecto 1 ",
+        "img": "./img/fportafolio1.jpg",
+        "enlace": "https://si1entera.github.io/Single-price-grid-component/"
+      },
+      {
+        "name": "Proyecto -2",
+        "number": "Proyecto 2",
+        "img": " ./img/fportafolio2.jpg",
+        "enlace":"https://andrej044.github.io/qr-code-component/"
+      },
+      {
+        "name": "Proyecto -3",
+        "number": "Proyecto 3",
+        "img": "./img/fportafolio3.jpg",
+        "enlace":"https://frontendmentor-04-column-preview.vercel.app/"
+      }
+      
+    ]
+  }
+  
